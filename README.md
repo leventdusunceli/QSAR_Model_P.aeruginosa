@@ -14,6 +14,7 @@ Quantitative structure-activity relationship *(QSAR)* modeling is a method used 
 
 
 For model building, the matrix of features consisted of chemical fingerprints and molecular descriptors of previously identified chemical compounds.  The dependent variable was pIC50 values of those chemical compounds.
+
 Chemical fingerprints and molecular descriptor values were calculated from the SMILES notation of compounds, which were imported from the ChEMBL database.  pIC50 values were calculated from the bioactivity level information of compounds imported from the ChEMBL database. [ChEMBL search tool](https://github.com/leventdusunceli/Chembl_search) in my GitHub profile was used to import information from the ChEMBL database. 
 
 Workflow of the project is as follows: 
@@ -35,7 +36,7 @@ Workflow of the project is as follows:
 
 *[5] 	R. Todeschini ve V. Consonni, Molecular Descriptors for Chemoinformatics, Wiley, 2009.* 
 
-*[6] 	K. Roy, S. Kar ve R. Das, «What is QSAR? Definitions and Formulism,» %1 içinde A primer on QSAR/QSPR modeling: Fundamental Concepts., New York, Springer-Verlag Inc., 2015, pp. 2-6.*
+*[6] 	K. Roy, S. Kar ve R. Das, «What is QSAR? Definitions and Formulism,» A primer on QSAR/QSPR modeling: Fundamental Concepts., New York, Springer-Verlag Inc., 2015, pp. 2-6.*
 
 
 
