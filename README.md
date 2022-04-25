@@ -6,7 +6,7 @@ Beta-lactam antibiotics are among the most commonly used drug classes and make u
 
 *Figure 1 Structure of penicillins (1) and cephalosporins (2) depicting common ß-lactam ring in red*
 
-However, the increasing rate of resistance among different bacteria strains against ß-lactams are raising serious public health concerns.  Resistance in Streptococcus pneumoniae and Pseudomonas aeruginosa strains are particularly challenging.  Bacteria can develop various mechanisms for resistance.  Synthesis of beta-lactamase, a enzyme that breaks down ß-lactams, by pathogens are among these mechanisms [4].  **Aim of this study is to build and compare a number of QSAR models for predicting bioactivity levels of chemical compounds towards beta-lactamase synthesized particularly by Pseudomonas aeruginosa. **
+However, the increasing rate of resistance among different bacteria strains against ß-lactams are raising serious public health concerns.  Resistance in Streptococcus pneumoniae and Pseudomonas aeruginosa strains are particularly challenging.  Bacteria can develop various mechanisms for resistance.  Synthesis of beta-lactamase, a enzyme that breaks down ß-lactams, by pathogens are among these mechanisms [4].  **Aim of this study is to build and compare a number of QSAR models for predicting bioactivity levels of chemical compounds towards beta-lactamase synthesized particularly by Pseudomonas aeruginosa.**
 
 
 Quantitative structure-activity relationship *(QSAR)* modeling is a method used in drug discovery studies for building regression or classification models using physico-chemical properties and molecular descriptors of chemical compounds [5].  The goal of QSAR models are to depict and predict the biological activity levels of chemical compounds [6].  
